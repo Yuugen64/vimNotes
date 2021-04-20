@@ -11,6 +11,7 @@ BY DEFAULT, you are in COMMAND MODE when Vim opens.
 
 Basic Shortcuts:
 - [i] Toggle INSERT mode. (This allows you to type normally and enter text)
+- [I] (capital I) Toggle INSERT mode and go to the BEGINNING of the line.
 - [o] (letter o) Adds a new line below and toggles INSERT mode.
 - [O] (capital O) Adds a new line above and toggles INSERT mode.
 - [V] (capital v) Toggle Visual Mode. (This allows you to visualize what lines of code you are interacting with).
