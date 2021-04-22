@@ -30,6 +30,8 @@ Command Line Shortcuts:
 - [q] quit Vim and exit back to the Terminal.
 - [wq] you can prefix the quit command with write command to save and quit.
 - [q!] quit Vim WITHOUT SAVING.
+- [:set number] show ABSOLUTE line numbers in vim.
+- [:set nonumber] to disable line numbers.
 
 Useful Commands:
 - [dd] delete an entire LINE.
