@@ -35,6 +35,7 @@ Command Line Shortcuts:
 
 Useful Commands:
 - [dd] delete an entire LINE.
+- [d$] delete to end of current line.
 - [u] undo.
 - [ctrl + r] redo.
 - [.] (period) repeats pevious command.
