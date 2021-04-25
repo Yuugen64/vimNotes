@@ -55,3 +55,4 @@ Useful Commands:
 - [f] If you type f and then a particular character, your cursor will find that character in the line.
 
 Learned about a standalone version of vim for Mac called Mac Vim.
+Also learned that you can indeed install vim on a pc, and so I chose to install it on my windows machine.
