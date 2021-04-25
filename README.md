@@ -53,3 +53,5 @@ Useful Commands:
 - [:30] takes you to line 30.
 - [0w] [^] take you to the beginning of the line.
 - [f] If you type f and then a particular character, your cursor will find that character in the line.
+
+Learned about a standalone version of vim for Mac called Mac Vim.
