@@ -56,3 +56,8 @@ Useful Commands:
 
 Learned about a standalone version of vim for Mac called Mac Vim.
 Also learned that you can indeed install vim on a pc, and so I chose to install it on my windows machine.
+
+Some PC notes on Vim:
+- When installing Vim on a Windows 10 machine (and conceivably other Windows builds), Vim generates THREE files in the same location.
+- The first (1): is a myFile.cpp.un file where the [.un] secondary extension denotes that the file is an undo file. This is essentially the undo log for the Vim editor in separate file format.
+- The second (2): is a myFile.cpp~ file where the [~] denotes that this file is a backup file saved before any changes were made.
